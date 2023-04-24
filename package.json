@@ -1,0 +1,18 @@
+{
+  "name": "aps_induction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/forge-viewer": "^7.69.5",
+    "express": "^4.18.2",
+    "express-formidable": "^1.2.0",
+    "forge-apis": "^0.9.6"
+  }
+}
